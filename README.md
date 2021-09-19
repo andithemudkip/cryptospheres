@@ -23,3 +23,6 @@ The planets are more or less just an amalgamation of gradients masked on top of 
 There is a lot of randomness and noise used for a plethora of parameters.
 
 The script firstly generates a random name for each planet which is then used as a seed for the actual planet generation.
+
+## The Gallery
+Feel free to check out [The Gallery](./gallery/) where you can scroll through all 150 planets and see them in all their glory.

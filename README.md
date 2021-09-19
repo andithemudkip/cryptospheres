@@ -13,3 +13,5 @@ You can find examples of what it generates in the aforementioned repo.
 Version 2 includes some special sauce that makes the planets look **a lot** more artistic and just overall nice imo.
 
 ### A couple examples: 
+
+![examples](./example.png)

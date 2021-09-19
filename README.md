@@ -14,4 +14,4 @@ Version 2 includes some special sauce that makes the planets look **a lot** more
 
 ### A couple examples: 
 
-![examples](./example.png)
+![examples](./example2.png)
